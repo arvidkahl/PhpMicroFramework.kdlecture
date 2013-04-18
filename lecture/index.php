@@ -21,4 +21,8 @@
  
  echo '</html>';
 
+  
+ //Running this code via the 'Save and Run' button will launch a live preview of this code!
+
+
 ?>
